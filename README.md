@@ -1,23 +1,14 @@
+_Academic project by Talha Siddiqui as part of Master of Data Science at University of British Columbia._
+
 <img src="https://cdn-images-1.medium.com/max/1600/0*uq2tGIOzQ0_fJXlI." align="right" height="190" width="220"/>
 
 # Breast Cancer Prediction 
 
-**Date:** 2018-11-30
-
 **License:** [MIT](https://opensource.org/licenses/MIT)
-
-#### Authors
-
-| Name | Github |
-| ---- | -------|
-| Akansha Vashisth |[akanshaVashisth](https://github.com/akanshaVashisth)|
-| Talha Siddiqui| [talhaadnan100](https://github.com/talhaadnan100)|
-
 
 #### Question
 
-- What are the strongest predictors of breast cancer?
-- Type of question = predictive 
+>What are the strongest predictors of breast cancer?
 
 #### Introduction 
 
@@ -165,3 +156,5 @@ This project is released with a [Contributor Code of Conduct](https://github.com
 - Patrício, M., Pereira, J., Crisóstomo, J., Matafome, P., Gomes, M., Seiça, R., & Caramelo, F. (2018). [Using Resistin, glucose, age and BMI to predict the presence of breast cancer](https://bmccancer.biomedcentral.com/articles/10.1186/s12885-017-3877-1).
 
 - Breast cancer image by [ConsenSys Media](https://www.google.com/search?client=safari&rls=en&biw=1183&bih=750&tbm=isch&sa=1&ei=TUAKXOKZG6SDk-4PzJCTuAo&q=breast+cancer+symbol&oq=breast+cancer+sym&gs_l=img.3.1.0l10.3803.4511..6188...0.0..0.69.159.3......1....1..gws-wiz-img.......0i67.Xlr8qcTDibM#imgrc=lB8QLGMxwvMk8M:)
+
+If you'd like to get in touch, contribute to this project, or make a suggestion for new features, please reach me on [my GitHub](https://github.com/talhaadnan100/). Thanks!
